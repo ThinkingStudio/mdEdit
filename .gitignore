@@ -1,2 +1,4 @@
 compiler.jar
 node_modules
+/mdedit.js
+/mdedit.min.js
